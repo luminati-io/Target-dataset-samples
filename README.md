@@ -2,7 +2,9 @@
 
 <h2>A sample dataset of 1001 Target products</h2>
 
-![Target dataset header](https://github.com/luminati-io/Target-dataset-samples/blob/main/target-datasets.PNG)
+<a href="https://brightdata.com/products/datasets/target">
+   <img src="https://github.com/luminati-io/Target-dataset-samples/blob/main/target-datasets.png" alt="target datasets" />
+</a>
 
 A Target dataset sample of over 1000 products. Dataset was extracted using the <b>Bright Data API</b>.
 
@@ -35,13 +37,17 @@ dataset which includes more than <b>7,100,000 companies</b>.
 
 Available dataset file formats: <b>JSON, NDJSON, JSON Lines, CSV, or Parquet. Optionally, files can be compressed to .gz</b>.
 
-Dataset delivery type options: <b>Email, API download, Webhook, Amazon S3, Google Cloud storage, Google Cloud PubSub, Microsoft Azure, Snowflake, SFTP</b>.
+Dataset delivery type options: <b>Email, API download, Webhook, target S3, Google Cloud storage, Google Cloud PubSub, Microsoft Azure, Snowflake, SFTP</b>.
 
 Update frequency: <b>Once, Daily, Weekly, Monthly, Quarterly, or Custom basis</b>.
 
 Data enrichment available as an addition to the data points extracted: <b>Based on request.</b>
 
 <b>[Get the full Target dataset](https://brightdata.com/products/datasets/target)</b>.
+
+<a href="https://brightdata.com/products/datasets/target">
+   <img src="https://github.com/luminati-io/Target-dataset-samples/blob/main/dataset-promotions.png" alt="target datasets" />
+</a>
 
 <h2>What are the Target datasets use cases?</h2>
 
